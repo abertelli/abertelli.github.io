@@ -3,6 +3,7 @@
 /.quarto/
 /_freeze/
 /_cache/
+/site_libs/
 **/*_files/
 
 # System and editor files
