@@ -1,0 +1,53 @@
+---
+title: "Books"
+description: "Books by Anthony M. Bertelli."
+---
+
+<div class="book-list">
+
+<div class="book-card">
+<h2>Democracy's Dirty Work</h2>
+<p><em>Public Reasons, Tough Decisions, for the People</em>. Cambridge University Press, under contract.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://doi.org/10.1017/9781009217613">Public Administration and Democracy</a></h2>
+<p><em>The Complementarity Principle</em>, with Lindsey Schwartz. Cambridge University Press, 2023. Open Access.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://doi.org/10.1017/9781108987561">Partnership Communities</a></h2>
+<p><em>Political Accountability and the Success of Infrastructure Development Around the World</em>, with Eleanor Florence Woodhouse, Michele Castiglioni and Paolo Belardinelli. Cambridge University Press, 2021.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://www.amazon.com/Democracy-Administered-Administration-Representative-Government/dp/131662109X">Democracy Administered</a></h2>
+<p><em>How Public Administration Shapes Representative Government</em>. Cambridge University Press, 2021. Winner of the 2022 Best Book Award from the American Society for Public Administration, Section on Public Administration Research.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://www.egeaeditore.it/ita/prodotti/politica-e-istituzioni/democrazia-amministrata.aspx">Democrazia Amministrata</a></h2>
+<p>Italian translation of <em>Democracy Administered</em>. Egea Editore, 2022.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://www.amazon.com/Public-Policy-Investment-Priority-Setting-Representation/dp/0199663971/">Public Policy Investment</a></h2>
+<p><em>Policy Prioritization and British Statecraft</em>, with Peter John. Oxford University Press, 2013.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://www.amazon.com/Agendas-British-Politics-Comparative-Political/dp/0230390420/">Policy Agendas in British Politics</a></h2>
+<p>With Peter John, Will Jennings, and Shaun Bevan. Palgrave-Macmillan, 2013.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://www.amazon.com/Political-Economy-Public-Sector-Governance/dp/0521736641/">The Political Economy of Public Sector Governance</a></h2>
+<p>Cambridge University Press, 2012.</p>
+</div>
+
+<div class="book-card">
+<h2><a href="https://www.amazon.com/Madisons-Managers-Administration-Constitution-Governance/dp/0801883199/">Madison’s Managers</a></h2>
+<p><em>Public Administration and the Constitution</em>, with Laurence E. Lynn, Jr. Johns Hopkins University Press, 2006.</p>
+</div>
+
+</div>

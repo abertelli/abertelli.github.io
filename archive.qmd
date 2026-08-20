@@ -1,0 +1,132 @@
+---
+title: "Archive"
+description: "Imported WordPress post archive."
+page-layout: article
+---
+
+<p class="lead">This page preserves selected research announcements and older WordPress posts from the previous site. It is linked from the footer rather than the main navigation to keep the new site focused.</p>
+
+### [REPGOV - Democracy from Public Administration](https://tonybertelli.com/2021/06/28/erc-advanced-grant-repgov-democracy-from-public-administration/)
+
+*2021-06-28.* On January 1, 2022, I will begin work on a five-year project funded by the European Research Council (ERC) that examines why, how and whether public administration reinforces the values of representative government. I...
+
+### [New Book Democracy Administered - Coming in July](https://tonybertelli.com/2021/06/24/new-book-democracy-administered-coming-in-july/)
+
+*2021-06-24.* I am delighted to announce that my new book, Democracy Administered: How Public Administration Shapes Representative Governance , will be published in July 2021 by Cambridge University Press. How does representative g...
+
+### [Law, Citizenship and Co-production](https://tonybertelli.com/2020/04/22/law-citizenship-and-co-production/)
+
+*2020-04-22.* Silvia Cannas and I are delighted to have contributed a chapter to the Palgrave Handbook of Co-Production , edited by my former Birmingham colleague Tony Bovaird and Elke Loffler . The abstract appears below and on SS...
+
+### [Herbert Simon Award - Thank You!](https://tonybertelli.com/2020/04/17/herbert-simon-award-thank-you/)
+
+*2020-04-17.* But for the coronavirus pandemic, I would be delivering the Herbert Simon Award lecture at the Midwest Political Science Association meetings in Chicago tonight. It is an incredible honor to have been selected for thi...
+
+### [Delegation and machine learning](https://tonybertelli.com/2020/04/14/delegation-and-machine-learning/)
+
+*2020-04-14.* A recent paper with Jason Anastasopoulos was published in the American Political Science Review that uses machine learning to replicate Fabio Franchino's coding scheme in all European Union all directives and regulati...
+
+### [The party system, the electoral system and electoral accountability](https://tonybertelli.com/2020/04/11/the-party-system-the-electoral-system-and-electoral-accountability/)
+
+*2020-04-11.* Christopher Kam , Alexander Held and I have published a paper that reveals an essential role for the bipolarity of the party system in electoral accountability. The paper is forthcoming in the American Political Scien...
+
+### [Sociotropic voting and public-private partnerships](https://tonybertelli.com/2020/04/08/sociotropic-voting-and-public-private-partnerships/)
+
+*2020-04-08.* Camila Angulo , Ellie Woodhouse and I have a paper forthcoming in a special issue of Governance later this year. The abstract appears below and the paper can be accessed on SSRN . I'm co-editing the issue entitled "Pu...
+
+### [New Research: How can we measure the failure of PPPs?](https://tonybertelli.com/2020/04/05/new-research-how-can-we-measure-the-failure-of-ppps/)
+
+*2020-04-05.* Valentina Mele , Andy Whitford and I have a piece forthcoming in Summer 2020 that will appear as part of a special issue of Governance . Our paper addresses the question of how to measure the failure of Public-Private...
+
+### [New Research - How Politics Influences Statutory Deadlines](https://tonybertelli.com/2019/06/27/new-research-how-politics-influences-statutory-deadlines/)
+
+*2019-06-27.* I am pleased to announce that Kathleen Doherty and I have published an article in Public Administration Review that considers U.S. federal agency compliance with statutory deadlines as a management problem that must r...
+
+### [New Research – Credit Claiming and Infrastructure Development](https://tonybertelli.com/2018/07/12/new-research-credit-claiming-and-infrastructure-development/)
+
+*2018-07-12.* I'm pleased to announce that I've published a new paper in the Journal of Public Administration Research and Theory entitled "Public Goods, Private Partnerships, and Political Institutions." The abstract appears below...
+
+### [New Research – When House Members Don't Like Pork](https://tonybertelli.com/2017/08/27/new-research-when-house-members-dont-like-pork/)
+
+*2017-08-27.* Pam Clouser McCann and I have published a paper in Legislative Studies Quarterly that examines the influence of decentralized administration through grant-in-aid programs on congressional role call voting. The last wo...
+
+### [Haldane Prize for Shrinking the State Project Paper](https://tonybertelli.com/2016/04/19/haldane-prize-for-shrinking-the-state-project-paper/)
+
+*2016-04-19.* My coauthors Andy Sinclair , Haram Lee , and I are honored and delighted to have won the 2016 Haldane Prize for the best article published in Public Administration in 2015. The article selected is entitled “ Media Att...
+
+### [New Research – Agency Termination and Democratic Accountability](https://tonybertelli.com/2016/01/11/new-research-agency-termination-and-democratic-accountability/)
+
+*2016-01-11.* The third paper from my pillar of the Shrinking the State project, funded by the UK Economic and Social Research Council , has now been accepted for publication. Democratic Accountability and the Politics of Mass Admi...
+
+### [Who are the policy workers and what are they doing?](https://tonybertelli.com/2015/12/14/who-are-the-policy-workers-and-what-are-they-doing/)
+
+*2015-12-14.* My first paper in a new project on democratic accountability in a world of complex governance has been accepted by Public Performance Management Review . Some of the ideas in this project were presented in my Jacob K....
+
+### [Media Response to Agency Termination Paper Now Available at Public Administration](https://tonybertelli.com/2015/07/20/media-response-to-agency-termination-paper-now-available-at-public-administration/)
+
+*2015-07-20.* A paper entitled “Media Attention and the Demise of Agency Independence: Evidence From a Mass Administrative Reorganization in Britain” written with Andy Sinclair and Haram Lee and discussed in a previous post is now ...
+
+### [Media and Mass Reorganization Paper Now Available at PAR](https://tonybertelli.com/2015/06/07/media-and-mass-reorganization-paper-now-available-at-par/)
+
+*2015-06-07.* A paper entitled "Mass Administrative Reorganization, Media Attention, and the Paradox of Information" written with Andy Sinclair and discussed in a previous post is now available via early view at Public Administrati...
+
+### [New Research - Media Response to Agency Termination: Out with a whimper?](https://tonybertelli.com/2015/05/20/new-research-media-response-to-agency-termination-out-with-a-whimper/)
+
+*2015-05-20.* A second paper from my part of the Economic and Social Research Council funded Shrinking the State project has now been accepted for publication. Media Attention and the Demise of Agency Independence: Evidence from a ...
+
+### [New Research - Media Attention and Agency Termination](https://tonybertelli.com/2015/05/16/new-research-media-attention-and-agency-termination/)
+
+*2015-05-16.* I am pleased to announce that my contributions to the Shrinking the State project are making their way into publication. " Mass Administrative Reorganization, Media Attention, and the Paradox of Information " with my ...
+
+### [Public Policy Investment Book](https://tonybertelli.com/2014/02/13/public-policy-investment-book/)
+
+*2014-02-13.* I am pleased to announce that my new book with Peter John has been released. Public Policy Investment addresses one of the enduring questions of democratic government: why do governments attend to some public policies...
+
+### [New Research - Measuring Attributes with Attitudes](https://tonybertelli.com/2013/05/15/new-research-measuring-attributes-with-attitudes/)
+
+*2013-05-15.* I am very pleased to report that a paper entitled "Measuring Agency Attributes with Attitudes Across Time: A Method and Examples Using Large-Scale Federal Surveys" and written with USC Price School Ph.D students Dyana...
+
+### [New Research - Policy Agendas in British Politics](https://tonybertelli.com/2013/05/07/new-research-policy-agendas-in-british-politics/)
+
+*2013-05-07.* A new book entitled Policy Agendas in British Politics will be available from Palgrave-Macmillan this Summer. It is a product of an inspiring collaboration with Peter John (University College London), Will Jennings (U...
+
+### [Shrinking the State](https://tonybertelli.com/2012/06/10/shrinking-the-state/)
+
+*2012-06-10.* This spring, I was pleased to begin a three year project with Matt Flinders (University of Sheffield) and Chris Skelcher (University of Birmingham) that will analyze the UK Coalition Government’s major reform of 'arm'...
+
+### [Public Policy Investment](https://tonybertelli.com/2012/06/08/public-policy-investment/)
+
+*2012-06-08.* I am very pleased to announce that a paper long in progress with Peter John (University College London) has been accepted for publication in the British Journal of Political Science . An earlier version of the paper w...
+
+### [The Political Economy of Public Sector Governance](https://tonybertelli.com/2012/06/07/the-political-economy-of-public-sector-governance/)
+
+*2012-06-07.* I am delighted to announce that the book I mentioned in this post is now published and available from Cambridge University Press. Designed for students and empirical researchers, the book is meant to be a general, non...
+
+### [Cabinet-Congress-President Ideal Point Data Available](https://tonybertelli.com/2012/02/07/cabinet-congress-president-ideal-point-data-available/)
+
+*2012-02-07.* I am pleased to announce that Christian Grose and I have released a datafile including the ideology estimates for U.S. presidents, legislators and cabinet secretaries used in Anthony M. Bertelli and Christian R. Grose...
+
+### [Strategic Capacity Building](https://tonybertelli.com/2011/07/24/strategic-capacity-building/)
+
+*2011-07-24.* I've been occupied over the past few weeks with finishing a textbook, The Political Economy of Public Sector Governance , for Cambridge University Press. I've been told it will be in print next summer. The book seeks ...
+
+### [Why teach in a Distance MPA?](https://tonybertelli.com/2011/06/19/why-teach-in-a-distance-mpa/)
+
+*2011-06-19.* Starting in August, I will be teaching a distance course at the MPA (Master's of Public Administration) level for the first time. The School of Policy, Planning and Development is launching a new distance program this...
+
+### [Risk and Return in British Politics](https://tonybertelli.com/2011/06/12/risk-and-return-in-british-politics/)
+
+*2011-06-12.* This week, my frequent collaborator Peter John will be presenting the first paper in a larger project on the prioritization of public policies by governments at the European Political Science Association meeting in Du...
+
+### [Measuring Latent Concepts in Public Management](https://tonybertelli.com/2011/06/12/measuring-latent-concepts-in-public-management/)
+
+*2011-06-12.* I just returned from the Public Management Research Conference in Syracuse -- a wonderful event. My USC PhD students Jennifer Connolly (2nd year) and Dyana Mason (1st year) presented preliminary results from an ongoin...
+
+### [Ideology in Federal Administrative Agencies](https://tonybertelli.com/2011/06/12/ideology-in-federal-administrative-agencies/)
+
+*2011-06-12.* Josh Clinton , Dave Lewis , Dave Nixon , Christian Grose and I have developed measures of bureaucratic ideology in an ongoing project that was also featured on the Monkey Cage . The measurement strategy used agency ex...
+
+### [Cabinet Ideal Points](https://tonybertelli.com/2011/06/12/cabinet-ideal-points/)
+
+*2011-06-12.* Christian Grose and I recently finished an initial stage of a long project to develop comparable estimates of cabinet secretaries, the president, and members of Congress. The paper is forthcoming at the American Journ...
+

@@ -1,0 +1,34 @@
+---
+title: "Anthony M. Bertelli"
+description: "Political scientist working on democratic governance, public administration, and public policy."
+page-layout: full
+---
+
+<style>
+#title-block-header {
+  display: none;
+}
+</style>
+
+<div class="home-shell">
+<section class="hero-panel">
+<div class="hero-copy">
+<div class="eyebrow">Political Science · Public Administration · Public Policy · Democracy</div>
+<h1>Anthony M. Bertelli</h1>
+<p class="dek">I study how politics shapes public policies and how they are implemented, and what that means for democracy.</p>
+<div class="role-stack">
+<p><strong>Professor of Political Science</strong><span>Bocconi University</span></p>
+<p><strong>Director of Global Governance Partnerships</strong><span>SDA Bocconi School of Management</span></p>
+<p><strong>Editor-in-Chief</strong><span><a href="https://www.cambridge.org/core/journals/journal-of-public-policy"><em>Journal of Public Policy</em></a></span></p>
+<p><strong>Principal Investigator, <a href="https://repgov.eu">REPGOV</a></strong><span>Funded by an ERC Advanced Grant</span></p>
+</div>
+<div class="hero-links">
+<a class="primary-link" href="bio.html">Read bio</a>
+<a href="Current_CV__Web_.pdf">View CV</a>
+<a href="https://www.linkedin.com/in/anthony-bertelli/">LinkedIn</a>
+<a href="https://orcid.org/0000-0002-0756-5691">ORCID</a>
+</div>
+</div>
+</section>
+<div class="photo-caption">Rittenhouse Square · Philadelphia</div>
+</div>

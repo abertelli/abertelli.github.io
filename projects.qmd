@@ -1,0 +1,24 @@
+---
+title: "Projects"
+description: "Current projects and research programs."
+---
+
+<div class="project-card">
+<h2><a href="https://repgov.eu/">REPGOV: Representative Government Through Democratic Governance</a></h2>
+<p>REPGOV examines why, how, and whether public administration reinforces the values of representative government. The project develops normative and positive theory and combines qualitative analysis, formal modeling, machine learning, and experiments.</p>
+</div>
+
+<div class="project-card">
+<h2>Public administration and democratic values</h2>
+<p>This research program examines how values in democratic governance are represented in institutional structures, public encounters, law, regulation, administrative practice, and social and political belief systems.</p>
+</div>
+
+<div class="project-card">
+<h2>Impartiality and accountability institutions</h2>
+<p>Ongoing work uses text-as-data and machine-learning tools to study how accountability institutions articulate impartiality, cooperation, and judgment across branches and levels of government.</p>
+</div>
+
+<div class="project-card">
+<h2>Public policy and statecraft</h2>
+<p>Continuing work on policy prioritization, public-private partnerships, and governance design asks how public institutions make hard choices visible, accountable, and politically meaningful.</p>
+</div>

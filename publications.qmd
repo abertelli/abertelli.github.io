@@ -1,0 +1,182 @@
+---
+title: "Publications"
+page-layout: article
+---
+
+## Books
+*Democracy's Dirty Work: Why Democracy Needs Good Administration,* Cambridge University Press, under contract.
+
+*The Policy Puzzle: Authority, Democracy, and the Making of Public Policy Studies*, American Philosophical Society Press, under contract.
+
+[*Public Administration and Democracy: The Complementarity Principle*](https://doi.org/10.1017/9781009217613) (with Lindsey Schwartz), Cambridge University Press (2023). [[Open Access](https://doi.org/10.1017/9781009217613)]
+
+[*Partnership Communities: Political Accountability and the Success of Infrastructure Development Around the World*](https://doi.org/10.1017/9781108987561) (with Eleanor Florence Woodhouse, Michele Castiglioni and Paolo Belardinelli), Cambridge University Press (2021).
+
+*[Democracy Administered: How Public Administration Shapes Representative Government](https://www.amazon.com/Democracy-Administered-Administration-Representative-Government/dp/131662109X)*, Cambridge University Press (2021).
+
+* Winner of the 2022 Best Book Award from the American Society for Public Administration, Section on Public Administration Research.
+* Italian Translation, [*Democrazia Amministrata*](https://www.egeaeditore.it/ita/prodotti/politica-e-istituzioni/democrazia-amministrata.aspx), Egea Editore (2022).
+
+*[Public Policy Investment: Policy Prioritization and British Statecraft](https://www.amazon.com/Public-Policy-Investment-Priority-Setting-Representation/dp/0199663971/ref=sr_1_1?ie=UTF8&qid=1503793541&sr=8-1&keywords=bertelli+public+policy+investment)* (with Peter John), Oxford University Press (2013).
+
+*[Policy Agendas in British Politics](https://www.amazon.com/Agendas-British-Politics-Comparative-Political/dp/0230390420/ref=mt_paperback?_encoding=UTF8&me=)* (with Peter John, Will Jennings, and Shaun Bevan), Palgrave-Macmillan (2013).
+
+*[The Political Economy of Public Sector Governance](https://www.amazon.com/Political-Economy-Public-Sector-Governance/dp/0521736641/ref=sr_1_1?s=books&ie=UTF8&qid=1503793655&sr=1-1&keywords=bertelli+political+economy)*. Cambridge University Press (2012).
+
+*[Madison’s Managers: Public Administration and the Constitution](https://www.amazon.com/Madisons-Managers-Administration-Constitution-Governance/dp/0801883199/ref=sr_1_1?s=books&ie=UTF8&qid=1503793685&sr=1-1&keywords=bertelli+madison%27s+managers)* (with Laurence E. Lynn, Jr.). Johns Hopkins University Press (2006).
+
+## Journal Articles
+Governance Values in Social and Political Belief Systems: Evidence from the United Kingdom and Italy (with Silvia Cannas and Marika Csapo), *British Journal of Political Science* (2026) [[Open Access](https://doi.org/10.1017/S0007123426101355)].
+
+Bureaucracy Under Pressure: Structural Integrity and the Ethics of Democratic Administration (with Vincenza Falletti), *International Review of Administrative Sciences* (2026) [[Open Access](https://doi.org/10.1177/00208523251406200)].
+
+Is Administrative Responsibility Intuitive in a Public Encounter? (with Silvia Cannas), *Governance*, v. 38, n. 4 (2025). [[Open Access](https://doi.org/10.1111/gove.70059)]
+
+Anchoring Institutional Values in Democracy: A Systematic Review, a Constructive Critique, and a Research Agenda (with Silvia Cannas, Katerina Sharova and Iker Uriarte), *Public Administration Review* (2025). [[Open Access](https://doi.org/10.1111/puar.70036)]
+
+Authorized Discretion: The Democratic Essentials of Governance in the European Union (with Vincenza Falletti and Silvia Cannas), *Governance*, v. 38, n. 3 (2025). [[Open Access](https://doi.org/10.1111/gove.70029)]
+
+Hybrid Governance and the Attribution of Political Responsibility: Experimental Evidence from the United States, with Eleanor Florence Woodhouse and Paolo Belardinelli, *Journal of Public Administration Research & Theory*, v. 32, n. 1 (2022). [[Gated](https://doi.org/10.1093/jopart/muab014)]
+
+What is Behavioral Public Administration Good For? with Norma M. Riccucci, *Public Administration Review*, v. 82, n. 1 (2022). [[Gated](https://doi.org/10.1111/puar.13283)]
+
+Reputation-Sourced Authority and the Prospect of Unchecked Bureaucratic Power, with Madalina Busuioc, *Public Administration Review*, v. 81, n. 1 (2021). [[Open Access](https://doi.org/10.1111/puar.13281)]
+
+The Electoral System, the Party System, and Accountability in Parliamentary Government, with Christopher Kam and Alexander Held, *American Political Science Review,* v. 114, n. 3 (2020). [[Gated](https://doi.org/10.1017/S0003055420000143)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551137)]
+
+An Agenda for the Study of Public Administration in Developing Countries, with Mai Hassan, Dan Honig, Daniel Rogger and Martin Williams, *Governance*, v. 33, n. 4 (2020). [[Gated](https://doi.org/10.1111/gove.12520)]
+
+Heuristics and Political Accountability in Complex Governance: An Experimental Test, with Gregg Van Ryzin, *Research & Politics*, July-September (2020). [[Open Access](https://doi.org/10.1177/2053168020950080)]
+
+The Political Cost of Public-Private Partnerships: Theory and Evidence from Colombian Infrastructure Development, with Camila Angulo Amaya and Eleanor Woodhouse, *Governance*, v. 33, n. 4 (2020) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3427272)] [[Gated](https://doi.org/10.1111/gove.12443)]
+
+Corruption, Democracy and Privately Financed Infrastructure, with Valentina Mele and Eleanor Florence Woodhouse, *Administration & Society*, v. 53, n. 3 (2020). [[Gated](https://doi.org/10.1177%2F0095399720944548)] [[SSRN](https://ssrn.com/abstract=3632958)]
+
+Understanding Delegation Through Machine Learning: A Method and Application to the European Union, with L. Jason Anastasopoulos, *American Political Science Review,* v. 114, n. 1 (2020). [[Gated](https://www.cambridge.org/core/journals/american-political-science-review/article/understanding-delegation-through-machine-learning-a-method-and-application-to-the-european-union/1724F3ECFA1F0AABE3C7F8DA5C5D521B)] [[SSRN](https://dx.doi.org/10.2139/ssrn.3207821)]
+
+When New Public Management Fails: Infrastructure Partnerships and Political Constraints in Developing and Transitional Economies, with Valentina Mele and Andrew Whitford, *Governance*, v. 33, n. 3 (2020). [[Gated](https://onlinelibrary.wiley.com/doi/abs/10.1111/gove.12428)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3408113)]
+
+Setting the Regulatory Agenda: Statutory Deadlines and the Conditions for Compliance, with Kathleen M. Doherty, *Public Administration Review,* v. 79, n. 5 (2019). [[Gated](https://doi.org/10.1111/puar.13082)] [[SSRN](https://ssrn.com/abstract=3374796)]
+
+Delegation, Collaborative Governance, and Non-Distributive Policy: The Curious Case of Joint Partnerships in American Federalism (with Pamela Clouser McCann and Giulia Leila Travaglini), *Journal of Politics,* v. 81, n. 1 (2019). [[Gated](https://www.journals.uchicago.edu/doi/full/10.1086/700724)] [[SSRN](http://ssrn.com/abstract=3253897)]
+
+Public Goods, Private Partnerships, and Political Institutions, *Journal of Public Administration Research and Theory*, v. 29., n. 1 (2019).[[Gated](https://doi.org/10.1093/jopart/muy036)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3198110)]
+
+Democratic Accountability and the Politics of Mass Administrative Reorganization (with J. Andrew Sinclair), *British Journal of Political Science,* v. 48, n. 3 (2018). [[Gated](https://doi.org/10.1017/S0007123416000077)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2714118)]
+
+Decentralizing Pork: Congressional Roll-Call Voting, Decentralized Administration, and Distributive Politics (with Pamela J. Clouser McCann), *Legislative Studies Quarterly,* v. 43, n. 1 (2018). [[Gated](http://rdcu.be/vMnG)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2997735)]
+
+Who Are the Policy Workers and What Are They Doing? Citizens' Heuristics and Democratic Accountability in Complex Governance, *Public Performance Management Review,*v. 40, n. 2 (2016)*.*[[Gated](http://dx.doi.org/10.1080/15309576.2016.1180306)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703639)]
+
+Bureaucratic Perceptions of Discretion in the U.S. Separation of Powers: Evidence from Cabinet Departments, *Public Organization Review*, v. 16, n. 1 (2016). [[Gated](https://doi.org/10.1007/s11115-014-0300-0)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014212)]
+
+Media Attention and the Demise of Agency Independence: Evidence from a Mass Administrative Reorganization in Britain (with J. Andrew Sinclair and Haram Lee), *Public Administration,* v. 93, n. 4 (2015). [[Gated](http://dx.doi.org/10.1111/padm.12190)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2607087)]
+
+* Winner of the Haldane Prize for the best paper published in *Public Administration* during 2015.
+
+Mass Administrative Reorganization, Media Attention, and the Paradox of Information (with J. Andrew Sinclair), *Public Administration Review,*v. 75, n. 6 (2015). [[Gated](http://dx.doi.org/10.1111/puar.12396)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2607110)]
+
+* Winner of the Best Comparative Policy Paper Award, Midwest Political Science Association.
+
+Measuring Agency Attributes with Attitudes Across Time: A Method and Examples Using Large-Scale Federal Surveys (with Dyana P. Mason, Jennifer M. Connolly, and David A. Gastwirth), *Journal of Public Administration Research and Theory,* v. 25, n. 2 (2015). [[Gated](https://doi.org/10.1093/jopart/mut040)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2265678)] [[Measures](https://agencydata.wordpress.com/2013/10/09/agency-attribute-measures/)]
+
+* Winner of the Herbert Kaufmann Award for Best Paper, Public Administration Section, American Political Science Association.
+
+Politics and Management in Distributive Public Policy: Evidence from Public Support for the Arts in The United Kingdom (with Dyana P. Mason, Jennifer M. Connolly, and Lillian Conover), *International Journal of Cultural Policy,* v. 20, n. 3 (2014). [[Gated](http://dx.doi.org/10.1080/10286632.2013.786057)]
+
+Policy Influence, Agency-Specific Human Capital, and Exit in the Federal Service (with David E. Lewis), *Journal of Public Administration Research and Theory*, v. 23, n. 2 (2013). [[Gated](https://doi.org/10.1093/jopart/mus044)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014222)]
+
+Public Policy Investment: Risk and Return in British Politics (with Peter John), *British Journal of Political Science,* v. 43, n. 4 (2013). [[Gated](https://doi.org/10.1017/S0007123412000567)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1900007)]
+
+Separated Powers in the United States: The Ideology of Agencies, Presidents, and Congress (with Joshua D. Clinton, David E. Lewis, David C. Nixon, and Christian R. Grose), *American Journal of Political Science,* v. 56, n. 2 (2012). [[Gated](http://dx.doi.org/10.1111/j.1540-5907.2011.00559.x)] [[WP Version](https://pdfs.semanticscholar.org/1f85/19ee5a4e630e3c3ce608ad769786d4db8d6b.pdf)] [[Ideal Points](https://agencydata.wordpress.com/2012/06/07/survey-based-federal-agency-ideal-point-estimates/)]
+
+The Lengthened Shadow of Another Institution? The Ideological Preferences of the Executive Branch and Senate (with Christian R. Grose), *American Journal of Political* Science, v. 55, n. 4(2011). [[Gated](http://dx.doi.org/10.1111/j.1540-5907.2011.00527.x)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1818182)] [[Ideal Points](https://agencydata.wordpress.com/2012/02/07/cabinet-congress-president-ideal-point-data/)]
+
+Small Changes, Big Results: Risk-­‐Sharing and Voting Behavior in the Presence of New Voters (with Jamie L. Carson), *Electoral Studies*, v. 30, n.1 (2011). [[Gated](https://doi.org/10.1016/j.electstud.2011.01.002)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1738584)]
+
+Congressional Ideology and Administrative Oversight, *Historical Methods*, v. 43, n. 3 (2010). [[Gated](http://dx.doi.org/10.1080/01615441003667491)]
+
+Government Checking Government: How Performance Measures Expand Distributive Politics (with Peter John), *Journal of Politics*, v. 72, n. 2 (2010). [[Gated](https://doi.org/10.1017/S002238160999082X)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1441668)] [[Extension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1571762)]
+
+Relational Contracting and Network Management (with Craig R. Smith), *Journal of Public Administration Research and Theory*, v. 20, Supplement (2009). [[Gated](https://doi.org/10.1093/jopart/mup033)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014335)]
+
+Secretaries of Pork? A New Theory of Distributive Public Policy (with Christian R. Grose), *Journal of Politics*, v.71, n.3 (2009). [[Gated](https://doi.org/10.1017/S002238160909080X)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1267288)]
+
+The Demand and Supply of Parliamentary Policy Advocacy: Evidence from UK Health Policy, 1997–2005 (with Rachel M. Dolan), *Government and Opposition*, v.44., n.3 (2009). [[Gated](http://dx.doi.org/10.1111/j.1477-7053.2009.01286.x)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1308729)]
+
+Perceiving Credible Commitments: How Independent Regulators Shape Elite Perceptions of Regulatory Quality (with Andrew B. Whitford). *British Journal of Political Science*, v. 39, n. 3 (2009). [[Gated](https://doi.org/10.1017/S0007123409000623)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=794089)]
+
+Demanding Information: Think Tanks and the U.S. Congress (with Jeffrey Wenger). *British Journal of Political Science*, v. 39, n.2 (2009). [[Gated](https://doi.org/10.1017/S0007123408000410)]
+
+Ideological Extremism and Electoral Structure: Multimember versus Single-member Districts (with Lilliard E. Richardson, Jr.), *Public Choice* v. 137, n. 1-2 (2008). [[Gated](https://doi.org/10.1007/s11127-008-9332-8)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1143474)]
+
+The Behavioral Impact of Drinking and Driving Laws (with Lilliard E. Richardson, Jr.). *Policy Studies Journal* v. 36, n.4 (2008). [[Gated](http://dx.doi.org/10.1111/j.1541-0072.2008.00283.x)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1116004)]
+
+Credible Governance? Transparency, Political Control, the Personal Vote, and British Quangos. *Political Studies*, v. 56, n. 4 (2008). [[Gated](http://dx.doi.org/10.1111/j.1467-9248.2007.00713.x)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=987055)]
+
+Measuring the Propensity to Drink and Drive (with Lilliard E. Richardson, Jr.). *Evaluation Review*, v.31, n.3 (2007). [[Gated](https://doi.org/10.1177/0193841X070310030401)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=956407)]
+
+Determinants of Bureaucratic Turnover Intention: Evidence from the Department of the Treasury. *Journal of Public Administration Research and Theory*, v.17, n. 2 (2007). [[Gated](https://doi.org/10.1093/jopart/mul003)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=913771)]
+
+Strategic Appointments (with Sven E. Feldmann). *Journal of Public Administration Research and Theory*, v. 17, n. 1 (2007). [[Gated](https://doi.org/10.1093/jopart/muj017)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=896599)]
+
+Agreeable Administrators? (with Christian R. Grose). *Presidential Studies Quarterly*, v.37, n.2 (2007). [[Gated](http://dx.doi.org/10.1111/j.1741-5705.2007.02595.x)]
+
+The Role of Political Ideology in the Structural Design of New Governance Agencies. *Public Administration Review*, v. 66, n. 4 (2006). [[Gated](http://dx.doi.org/10.1111/j.1540-6210.2006.00618.x)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=844807)]
+
+Structural Reform Litigation: Legislative Mandates under Remedial Bargaining (with Sven E. Feldmann). *Journal of Theoretical Politics*, v. 18, n. 2 (2006). [[Gated](https://doi.org/10.1177/0951629806061859)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=839426)]
+
+Governing the Quango: A Theory of Auditing and Cheating. *Journal of Public Administration Research and Theory*, v. 16, n. 2 (2006). [[Gated](https://doi.org/10.1093/jopart/mui047)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=839425)]
+
+Delegating to the Quango: Ex Ante and Ex Post Ministerial Constraints. *Governance*, v. 19, n. 2 (2006). [[Gated](http://dx.doi.org/10.1111/j.1468-0491.2006.00313.x)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=840064)]
+
+The Spatial Model and the Removal Trial of President Clinton (with Christian R. Grose). *American Politics Research*, v. 34, n. 4 (2006). [[Gated](https://doi.org/10.1177/1532673X05282848)]
+
+The Motivation Crowding Effect and the Federal Civil Servant. *International Public Management Journal*, v. 9, n. 1 (2006). [[Gated](http://dx.doi.org/10.1080/10967490600625191)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=848828)]
+
+Public Management in the Shadow of the Constitution (with Laurence E. Lynn, Jr.). *Administration & Society*, vol. 38, n. 1 (2006). [[Gated](https://doi.org/10.1177/0095399705284201)]
+
+Policymaking in the Parallelogram of Forces: Common Agency and the Provision Human Services (with Laurence E. Lynn, Jr.). *Policy Studies Journal*, v. 32, n. 2 (2004). [[Gated](http://dx.doi.org/10.1111/j.1541-0072.2004.00067.x)]
+
+Strategy and Accountability: Structural Reform Litigation and Public Management. *Public Administration Review*, v. 64, n. 1 (2004). [[Gated](http://dx.doi.org/10.1111/j.1540-6210.2004.00344.x)]
+
+Managerial Responsibility (with Laurence E. Lynn, Jr.). *Public Administration Review*, v. 63, n. 3 (2003). [[Gated](http://dx.doi.org/10.1111/1540-6210.00288)]
+
+## Law Review Articles
+A Precept of Managerial Responsibility: Securing Collective Justice in Institutional Reform Litigation (with Laurence E. Lynn, Jr.). *Fordham Urban Law Journal*, v. 29, n. 1 (2001).
+
+Developing a Common Law of Cost Benefit Analysis: A Rational Choice Institutional Analysis. *Journal of Law and Politics*, v. 14, n. 4 (1999).
+
+Impoverished Liberalism: Does the New York Workfare Program Violate Human Rights? *Buffalo Human Rights Law Review*, v.5, n.1 (1999).
+
+Should Social Workers Engage in the Unauthorized Practice of Law? *Boston University Public Interest Law Journal*, v. 8, n.1 (1998).
+
+Marketing Racism: The Imperialism of Rationality, Critical Race Theory, and Some Interdisciplinary Lessons for Neoclassical Economics. *Virginia Journal of Social Policy and The Law*, v. 5, n. 1 (1997).
+
+## Invited Essays
+Accountability in Representative Government, *Handbook of Accountability Research*, Edward Elgar (2025). [[SSRN](https://dx.doi.org/10.2139/ssrn.4483124)]
+
+New Frontiers in the Politics of Public-Private Partnerships (with Eleanor Florence Woodhouse), *Research Agenda for Public-Private Partnerships and the Governance of Infrastructure: New Frontiers and Themes in a Contested World*, Edward Elgar (2022).
+
+Law and Co-production: The Importance of Citizenship Values (with Silvia Cannas), forthcoming in the *Palgrave Handbook of Co-Production*(2021). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485598)]
+
+Comparative Law and Public Administration (with Fiona Cece), *Oxford Handbook of Comparative Administrative Law* (2021)*.* [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485617)]
+
+Rational Choice Perspectives on Bureaucracy (with Nicola Palma), *Oxford Research Encyclopedia of Public Administration* (2021).
+
+The Federalist, Nos. 41–43: Coordination in Service of the Public Interest, *Public Administration Review,* v. 70, Supp.(2011).
+
+Envisioning Public Administration as a Scholarly Field in 2020: The Importance of Political Environments, *Public Administration Review*, v. 70, Supp. (2010).
+
+Law and Public Administration. *Oxford Handbook of Public Management*(2005).
+
+## Book Reviews
+*The Craft of Bureaucratic Neutrality* by Gregory A. Huber. *Journal of Politics*, v. 70, n. 4 (2008).
+
+*The Public Administration Theory Primer* by H. George Frederickson and Kevin B. Smith. *Public Management Review*, v.7, n.1 (2005).
+
+*The Forging of Bureaucratic Autonomy* by Daniel P. Carpenter and *Presidents and the Politics of Agency Design* by David E. Lewis. *Public Administration Review*, v. 64, n. 4 (2004).
+
+*Pitiful Plaintiffs: Child Welfare Litigation and the Federal Courts* by Susan Gluck Mezey. *Social Service Review*, v. 75, n. 2 (2001).
+
+*Judicial Policy Making and the Modern State: How the Courts Reformed America’s Prisons* by Malcolm M. Feeley and Edward L. Rubin. *Journal of Policy Analysis and Management*, v. 18, n.3 (1999).

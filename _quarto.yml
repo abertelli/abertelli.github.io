@@ -1,0 +1,31 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - bio.qmd
+    - publications.qmd
+
+website:
+  title: "Anthony M. Bertelli"
+  site-url: "https://abertelli.github.io"
+  navbar:
+    pinned: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Bio"
+        href: bio.qmd
+      - text: "Publications"
+        href: publications.qmd
+  page-footer:
+    left: "© Anthony M. Bertelli"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    title-block-banner: false
+    page-layout: article

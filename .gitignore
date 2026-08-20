@@ -1,0 +1,47 @@
+# Quarto build and preview files
+/_site/
+/.quarto/
+/_freeze/
+/_cache/
+**/*_files/
+
+# System and editor files
+.DS_Store
+**/.DS_Store
+*.swp
+*.tmp
+*.bak
+*~
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.vscode/
+
+# Exports, archives, screenshots, and private working material
+*.xml
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+screenshots/
+Screenshot*
+screenshot*
+private/
+private-notes/
+notes-private*
+*.private.*
+
+# Old media dumps and unused legacy images
+old-media/
+media-dump/
+uploads/
+/palermo.jpeg
+/roentgen.jpg
+/roentgen-bg.jpg
+/images/roentgen-hero.jpg
+
+# Import metadata retained locally but not needed for the published site
+/site_manifest.json
+
+**/*.quarto_ipynb

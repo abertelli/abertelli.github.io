@@ -1,0 +1,32 @@
+---
+title: "Research"
+description: "Research themes."
+---
+
+<p class="lead">My research asks how democratic values are carried, transformed, and contested through public administration and public policy.</p>
+
+<div class="research-grid">
+
+<section>
+<h2>Democratic governance</h2>
+<p>I study the relationship between public administration and representative government, with particular attention to discretion, legitimacy, accountability, and the institutional design of public power.</p>
+</section>
+
+<section>
+<h2>Public values and administration</h2>
+<p>Recent work examines how values such as accountability, impartiality, legality, efficiency, participation, transparency, responsiveness, equality, and integrity are embedded in administrative institutions and public belief systems.</p>
+</section>
+
+<section>
+<h2>Policy design and statecraft</h2>
+<p>I have written on public policy investment, policy agendas, public-private partnerships, and the ways governments prioritize, structure, and justify policy commitments.</p>
+</section>
+
+<section>
+<h2>Text, institutions, and evidence</h2>
+<p>Current work uses qualitative analysis, formal theory, surveys, experiments, and machine learning to examine how institutions express and reinforce democratic values.</p>
+</section>
+
+</div>
+
+<p>For a full linked publication record, see the <a href="cv.html">web CV</a>.</p>
