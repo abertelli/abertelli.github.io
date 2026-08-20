@@ -7,7 +7,7 @@ project:
 
 website:
   title: "Anthony M. Bertelli"
-  site-url: "https://abertelli.github.io"
+  site-url: "https://tonybertelli.com"
   navbar:
     pinned: true
     right:
